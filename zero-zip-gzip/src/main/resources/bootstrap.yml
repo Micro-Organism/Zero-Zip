@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-zip-gzip
+    profiles:
+        active: dev
+server:
+    port: 8080
